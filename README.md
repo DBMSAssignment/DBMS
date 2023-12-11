@@ -8,7 +8,6 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
-* [Contact](#contact)
 
 
 
