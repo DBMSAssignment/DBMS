@@ -27,11 +27,7 @@ html {
   margin-left: auto;
 }
 
-@media (min-width: 576px) {
-  .container {
-    max-width: 540px;
-  }
-}
+
 
 @media (min-width: 768px) {
   .container {
@@ -42,6 +38,11 @@ html {
 @media (min-width: 992px) {
   .container {
     max-width: 960px;
+  }
+}
+@media (min-width: 577px) {
+  .container {
+    max-width: 542px;
   }
 }
 
@@ -85,7 +86,7 @@ html {
 .col-xl-auto {
   position: relative;
   width: 100%;
-  min-height: 1px;
+  min-height: 2px;
   padding-right: 15px;
   padding-left: 15px;
 }
@@ -243,7 +244,7 @@ html {
 }
 
 .offset-6 {
-  margin-left: 50%;
+  margin-left: 51%;
 }
 
 .offset-7 {
